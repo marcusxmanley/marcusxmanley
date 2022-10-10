@@ -1,46 +1,45 @@
-# Marcus Manley
+# Marcus Manley, Berlin
 
-I'm **Marcus Manley** from **Berlin**.
-
-Born in 1978, grew up in Frankfurt am Main, moved to Berlin in my late 30s, found my wonderful husband and many interesting things in this wonderful and interesting city.
+I'm Marcus Manley from Berlin. I'm `mmanley-` at _42_.
 
 ## Learning to program
 
-I will start studying coding at [**_42_ Berlin**](https://42berlin.de) in December 2022. The core curriculum will take about a year.
+I will start studying coding at [_42_ Berlin](https://42berlin.de) in December 2022. The core curriculum will take about a year.
 
-I started coding August 2022, so I'm a total **beginner**.
+I started coding August 2022, so I'm a total beginner.
 
-I am doing the typical _42_ curriculum:
+I am doing the typical _42_ beginner's curriculum: mainly C and Unix.
 
-* **C**
-* **Unix**
+While waiting for school to start I am working through [Stephen G. Kochan's _Programming in C_ tutorial](https://www.oreilly.com/library/view/programming-in-c/9780132781206/).
 
-Through building several websites I have rudimentary knowledge of:
-
-* HTML & CSS
-* Wordpress
+Through building several websites I have rudimentary knowledge of HTML and CSS, and Wordpress.
 
 ## Things I like
 
 I enjoy using all the new toys I discovered:
 
-* **Vim**
-* **Linux**
-* **Codewars**
+* Vim
+* Linux
+* Codewars
 
-Free software seems like a good idea to me. One of the things I hope to be able to do soon is to contribute to my favorite projects:
+Free software seems like a good idea to me. One of the things I hope to be able to do soon is to contribute to some projects:
 
-* [**Zettlr**](https://www.zettlr.com/)
-* [**Neo** keyboard layout](https://neo-layout.org)
+* [Zettlr](https://www.zettlr.com/)
+* [Neo keyboard layout](https://neo-layout.org)
+* [Amphetype](https://gitlab.com/franksh/amphetype)
 
 ## Life before code
 
-In my previous profession I was an **intensive care nurse specialist** for two decades.
+Born in 1978, family in Europe and America, grew up in Frankfurt am Main, moved to Berlin in my late 30s, found my wonderful husband and many interesting things in this wonderful and interesting city.
 
-Currently I work as a **spiritual consultant**. I won't link my business here as I like to separate my spiritual and technical interests.
+In my previous profession I was an intensive care nurse specialist for two decades.
+
+Currently I work full-time as a spiritual consultant. I won't link my business here as I like to separate my spiritual and technical interests.
 
 ## Life after school
 
 In the future I'd like to become a professional software developer.
 
-Software has become one of the foundations of our civilization. It would be a pleasure and an honor to be able to be a part of these efforts.
+As I'm new to programming, I'm still very open about my career. I would like to work for the health care industry. I have also worked as a temp worker (travelling nurse in intensive care) and have many ideas for this business.
+
+Some of my personal interests also offer great opportunities for software, especially astrology and other forms of divination.
