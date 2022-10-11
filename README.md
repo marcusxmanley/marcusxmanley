@@ -2,11 +2,13 @@
 
 I'm Marcus Manley from Berlin. I'm `mmanley-` at _42_.
 
+For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
+
 ## Learning to program
 
 I will start studying coding at [_42_ Berlin](https://42berlin.de) in December 2022. The core curriculum will take about a year.
 
-I started coding August 2022, so I'm a total beginner.
+I started coding in August 2022, so I'm a total beginner.
 
 I am doing the typical _42_ beginner's curriculum: mainly C and Unix.
 
@@ -43,3 +45,7 @@ In the future I'd like to become a professional software developer.
 As I'm new to programming, I'm still very open about my career. I would like to work for the health care industry. I have also worked as a temp worker (travelling nurse in intensive care) and have many ideas for this business.
 
 Some of my personal interests also offer great opportunities for software, especially astrology and other forms of divination.
+
+## Contact
+
+[marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com)
