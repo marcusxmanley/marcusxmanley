@@ -16,15 +16,15 @@ While waiting for school to start I am working through [Stephen G. Kochan's _Pro
 
 Through building several websites I have rudimentary knowledge of HTML and CSS, and Wordpress.
 
+## 42 projects
+
+As school hasn't started yet, I have only begun a single project of the core curriculum (which we were advised to do to while away the weeks until November 28):
+
+* [`libft`: Re-coding useful C functions](https://github.com/marcusxmanley/libft)
+
 ## Things I like
 
-I enjoy using all the new toys I discovered:
-
-* Vim
-* Linux
-* Codewars
-
-Free software seems like a good idea to me. One of the things I hope to be able to do soon is to contribute to some projects:
+One of the things I hope to be able to do soon is to contribute to some projects:
 
 * [Zettlr](https://www.zettlr.com/)
 * [Neo keyboard layout](https://neo-layout.org)
