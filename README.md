@@ -26,6 +26,7 @@ One of the things I hope to be able to do soon is to contribute to some projects
 * [Zettlr](https://www.zettlr.com/)
 * [Neo keyboard layout](https://neo-layout.org)
 * [Amphetype](https://gitlab.com/franksh/amphetype)
+* [Ubuntu](https://ubuntu.com/)/[Lubuntu](https://lubuntu.me/)
 
 ## Life before code
 
