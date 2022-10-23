@@ -1,4 +1,4 @@
-# Marcus Manley, Berlin
+# Marcus Manley, level 7 programmer, Berlin
 
 I'm Marcus Manley from Berlin. I'm `mmanley-` at _42_.
 
