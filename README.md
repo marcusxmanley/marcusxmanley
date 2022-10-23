@@ -1,6 +1,6 @@
-# Marcus Manley, level 7 programmer, Berlin
+# Marcus Manley, Berlin
 
-I'm Marcus Manley from Berlin. I'm `mmanley-` at _42_.
+I'm Marcus Manley, a level 7 programmer from Berlin. I'm `mmanley-` at _42_.
 
 For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
 
@@ -11,6 +11,7 @@ I will start studying coding at [_42_ Berlin](https://42berlin.de) in December 2
 I started coding in August 2022 with the [_42_ piscine](https://42berlin.de/the-piscine-at-42/), so I'm doing the typical beginner's curriculum:
 
 * C
+* Vim
 * Unix
 * Robozzle
 
