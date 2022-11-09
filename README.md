@@ -1,12 +1,12 @@
 # Marcus Manley, Berlin
 
-I'm Marcus Manley, a level 7 programmer from Berlin. I'm `mmanley-` at _42_.
+I'm Marcus Manley, a level 7 programming student from Berlin. I'm `mmanley-` at _42_.
 
 For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
 
 ## Learning to program
 
-I will start studying coding at [_42_ Berlin](https://42berlin.de) in December 2022. The core curriculum will take about a year.
+I will start studying programming at [_42_ Berlin](https://42berlin.de) in December 2022. The core curriculum will take about a year, the entire program including internships and specialized studies from two to five years.
 
 I started coding in August 2022 with the [_42_ piscine](https://42berlin.de/the-piscine-at-42/), so I'm doing the typical beginner's curriculum:
 
@@ -41,7 +41,7 @@ Currently I work full-time as a spiritual consultant. I won't link my business h
 
 In the future I'd like to become a professional software developer.
 
-As I'm new to programming, I'm still very open about my career. I would perhaps like to work for the health care industry. I have also worked as a temp worker (travelling nurse in intensive care) and have many ideas for this business.
+I'm still very open about my career. I would perhaps like to work for the health care industry. I have also worked as a temp worker (travelling nurse in intensive care) and have many ideas for this business.
 
 Some of my personal interests also offer great opportunities for software, especially astrology and other forms of divination.
 
