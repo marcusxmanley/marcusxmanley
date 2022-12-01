@@ -1,33 +1,18 @@
 # Marcus Manley, Berlin
 
-I'm Marcus Manley, a level 7 programming student from Berlin. I'm `mmanley-` at _42_.
+I'm Marcus Manley, a programming student from Berlin. I'm `mmanley-` at _42_.
 
 For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
 
 ## Learning to program
 
-I will start studying programming at [_42_ Berlin](https://42berlin.de) in December 2022. The core curriculum will take about a year, the entire program including internships and specialized studies from two to five years.
+I'm studying programming at [_42_ Berlin](https://42berlin.de). I'm doing the _Common Core_ basic studies, from 2022 to 2024.
 
 I started coding in August 2022 with the [_42_ piscine](https://42berlin.de/the-piscine-at-42/), so I'm doing the typical beginner's curriculum:
 
 * C
-* Vim
 * Unix
 * Robozzle
-
-While waiting for school to start I am mainly working on two projects:
-
-* [Stephen G. Kochan's _Programming in C_ tutorial](https://www.oreilly.com/library/view/programming-in-c/9780132781206/)
-* [`libft`: Re-coding useful C functions](https://github.com/marcusxmanley/libft) (the first _42_ core curriculum project)
-
-## Free software
-
-One of the things I hope to be able to do soon is to contribute to some projects:
-
-* [Zettlr](https://www.zettlr.com/)
-* [Neo keyboard layout](https://neo-layout.org)
-* [Amphetype](https://gitlab.com/franksh/amphetype)
-* [Ubuntu](https://ubuntu.com/)/[Lubuntu](https://lubuntu.me/)
 
 ## Life before code
 
@@ -47,4 +32,6 @@ Some of my personal interests also offer great opportunities for software, espec
 
 ## Contact
 
-[marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com)
+MAIL: [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com)
+
+42: `mmanley-`
