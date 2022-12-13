@@ -1,18 +1,8 @@
 # Marcus Manley, Berlin
 
-I'm Marcus Manley, a programming student from Berlin. I'm `mmanley-` at _42_.
+I'm Marcus Manley, currently trying to become a professional programmer.
 
 For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
-
-## Learning to program
-
-I'm studying programming at [_42_ Berlin](https://42berlin.de). I'm doing the _Common Core_ basic studies, from 2022 to 2024.
-
-I started coding in August 2022 with the [_42_ piscine](https://42berlin.de/the-piscine-at-42/), so I'm doing the typical beginner's curriculum:
-
-* C
-* Unix
-* Robozzle
 
 ## Life before code
 
@@ -33,5 +23,3 @@ Some of my personal interests also offer great opportunities for software, espec
 ## Contact
 
 MAIL: [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com)
-
-42: `mmanley-`
