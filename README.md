@@ -1,16 +1,20 @@
 # Marcus Manley, Berlin
 
-I'm Marcus Manley, currently trying to become a professional programmer.
+I'm Marcus Manley, currently studying on my own (with a little help from my friends) to become a professional programmer.
+
+At the moment I'm doing really basic stuff, mainly in C and Python.
 
 For questions, comments, or chit-chat write to [marcusxmanley@gmail.com](mailto:marcusxmanley@gmail.com).
 
 ## Life before code
 
-Born in 1978, family in Europe and America, grew up in Frankfurt am Main, moved to Berlin in my late 30s, found my wonderful husband and many interesting things in this wonderful and interesting city.
-
-In my previous profession I was an intensive care nurse specialist for two decades.
-
-Currently I work full-time as a spiritual consultant. I won't link my business here as I like to separate my spiritual and technical interests.
+* Born in 1978
+* Family in Europe and America
+* Grew up in Frankfurt am Main
+* Moved to Berlin in my 30s
+* Found my wonderful husband and many interesting things in this wonderful and interesting city
+* Intensive care nurse specialist, worked in health care for more than two decades
+* I currently work full-time as a self-employed spiritual consultant
 
 ## Contact
 
